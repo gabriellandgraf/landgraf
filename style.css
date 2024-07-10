@@ -9,7 +9,8 @@
     height: 200px;
     float: left;
     border: 2px solid black;
-    margin: 20px;
+    margin: 30px;
+    margin-top: 3px;
     background-image: url(assets/noticia1.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,8 +22,9 @@
     height: 200px;
     float: left;
     border: 2px solid black;
-    margin: 20px;
-    background-image: url(assets/noticia2.webp);
+    margin: 30px;
+    margin-top: 3px;
+    background-image: url(assets/noticia2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: inline-block
@@ -34,7 +36,8 @@
     float: left;
     border: 2px solid black;
     margin: 20px;
-    background-image: url(assets/noticia3.jpg);
+    margin-top: 3px;
+    background-image: url(assets/noticia3.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     display: inline-block;
@@ -46,7 +49,81 @@
     float: left;
     border: 2px solid black;
     margin: 20px;
-    background-image: url(assets/noticia4.jpg);
+    margin-top: 3px;
+    background-image: url(assets/noticia4.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.conteudo5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 2px solid black;
+    margin: 20px;
+    margin-top: 3px;
+    background-image: url(assets/noticia5.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.conteudo6{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 2px solid black;
+    margin: 20px;
+    background-image: url(assets/culinaria1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.conteudo7{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 2px solid black;
+    margin: 20px;
+    background-image: url(assets/culinaria2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.conteudo8 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 2px solid black;
+    margin: 20px;
+    background-image: url(assets/noticia6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.conteudo9 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 2px solid black;
+    margin: 20px;
+    background-image: url(assets/conteudo9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.conteudo10 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 2px solid black;
+    margin: 20px;
+    background-image: url(assets/conteudo10.webp);
     background-repeat: no-repeat;
     background-size: cover;
     display: inline-block;
@@ -54,4 +131,23 @@
 
 #body {
     background-color: rgb(56, 55, 55);
+}
+
+.bombeiros {
+    width: 200px;
+    height: 80px;
+    margin: 30px;
+    text-align: justify;
+
+}
+
+#bombeiros {
+    color: white;
+}
+
+.chuvas {
+    width: 200px;
+    height: 80px;
+    margin: 30px;
+    text-align: justify;
 }
